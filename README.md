@@ -3,8 +3,8 @@
 Experimenting with different features utilising Discord's documentation
 
 Currently implemented features:
-ping
-heads/tails
-covid cases
+ping \n
+heads/tails \n
+covid cases \n
 
 covid cases implemented by scraping data from the nsw health website
